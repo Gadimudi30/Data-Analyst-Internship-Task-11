@@ -1,0 +1,13 @@
+Task 12 – Power BI Data Transformation
+
+Steps:
+- Imported Superstore dataset
+- Cleaned data using Power Query
+- Removed unwanted columns
+- Handled null values
+- Changed datatypes
+- Created conditional columns
+- Built 3 visuals (Sales by Region, Profit by Category, Monthly Trend)
+
+Tools used:
+Power BI Desktop
